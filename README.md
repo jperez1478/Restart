@@ -29,7 +29,7 @@ By using multiple movements in the opposite direction (parallax effect) we can a
 
 # Second step 
 
-once the onboarding function works start sketching and design your onboarding view , remeber with swift UI you can use alot views inside one view pa
+once the onboarding function works start sketching and design your onboarding view , remeber with swift UI you can use alot views inside one view  in this onboarding view i created a header a center and a footer using vstack and zstack 
 
 
 
